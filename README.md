@@ -1,7 +1,6 @@
 # LingoAssist Language Learning App
 I made this app using java. You can download the app by using following link: https://drive.google.com/drive/folders/1S6V69qAT3eWIrKczw7VCbxX76iV1PTRX?usp=sharing
-# Note 
-This repositery is still under development and i will continue to add more features to it
+
 # Screenshots
 ![l1](https://user-images.githubusercontent.com/123807371/220657539-d68982ae-245c-44fc-aa30-0f1f98c8acd5.jpeg)
 ![l2](https://user-images.githubusercontent.com/123807371/220657623-2aa3a504-002f-4259-869c-ecde53082dbe.jpeg)
